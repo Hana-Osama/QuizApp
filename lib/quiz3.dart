@@ -85,7 +85,7 @@ class _Quiz3State extends State<Quiz3> {
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
                       children: [
                         Text(
-                          "Which of the following is referred to as binary code?",
+                          "Which represents binary code?",
                           style: GoogleFonts.poppins(
                             fontSize: 18.0,
                             fontWeight: FontWeight.bold,
